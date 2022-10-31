@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/foolishfeng.lwc-l9wczfow-fork-l9wgom57",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Dli1yCc18EAPB5JKOVFo --open"
+  }
+}
